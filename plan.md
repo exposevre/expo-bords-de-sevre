@@ -1,8 +1,8 @@
 ---
-title: "plan"
+title: "Plan"
 order: 1
 ---
-plan implantation des panneaux
+Plan implantation des panneaux
 
 
 plan avec un template un peu moins technique et plus simple
